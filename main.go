@@ -23,6 +23,7 @@ func main() {
 		Title:  "intruderWatcher",
 		Width: 350,
 		Height: 580,
+		
 		AssetServer: &assetserver.Options{
 			Assets: assets,
 		},
